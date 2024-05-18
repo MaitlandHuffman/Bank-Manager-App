@@ -1,0 +1,8 @@
+Maitland Huffman,123,100.00
+Ryan Mcdonald,159,600.25
+Professor,2341,200.00
+Xavier Terry,321,300.00
+George Mcguire,456,150.50
+Eliahs Jones,654,75.00
+Hannah Huffman,789,250.75
+Matthew Mcdaniel,987,450.00
